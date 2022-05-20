@@ -125,3 +125,5 @@ Does the same as the command above, but for all branches.
 
     git log --graph --oneline --all
     
+## How to work with remote repo on Git Hub:
+

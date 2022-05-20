@@ -127,3 +127,4 @@ Does the same as the command above, but for all branches.
     
 ## How to work with remote repo on Git Hub:
 
+Remote repos are required when you need to work on a project in group.
